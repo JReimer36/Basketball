@@ -4,3 +4,4 @@
 ###   - Version 2 uses 40 years of data pulled from the NBA stats api (saved as csv file in code and available here)
 ## Final output graph uploaded as .html file because github doesn't load plotly due to the size of their graphing files
 ###   -V1: TS% vs PPG, V2: EFF vs PPG
+## Results also provided in Power BI dashboard
